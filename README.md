@@ -1,1 +1,1 @@
-Trying React and learned a lot from it.
+Trying React and learned a lot.
